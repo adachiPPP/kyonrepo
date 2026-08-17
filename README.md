@@ -9,6 +9,8 @@ hosted on GitHub Pages, so it can be used by anyone with a normal
 | package          | version | description |
 |------------------|---------|-------------|
 | kyon-wallpapers  | 1.1.0-1 | GTK4/libadwaita app to browse, cycle through, and download Kyon Linux wallpapers |
+| owofetch stfu larp nya opsec blahblahblah|
+| nya is special tho |
 
 ## adding the repository
 
