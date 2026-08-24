@@ -19,7 +19,7 @@ append to `/etc/pacman.conf`:
 ```
 [kyonrepo]
 SigLevel = Optional TrustAll
-Server = https://adachippp.github.io/wallpapers/
+Server = https://adachippp.github.io/kyonrepo/
 ```
 
 then refresh:
